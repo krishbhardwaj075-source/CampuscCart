@@ -1,0 +1,459 @@
+order_id,order_date,student,course,product,category,quantity,price,amount,status
+1,2025-10-22,Riya Singh,BCA,Thali,Meals,1,80.0,80.0,Delivered
+1,2025-10-22,Riya Singh,BCA,Burger,Snacks,5,45.0,225.0,Delivered
+1,2025-10-22,Riya Singh,BCA,Juice,Beverages,5,30.0,150.0,Delivered
+2,2025-08-29,Ananya Gupta,BSc,Pen,Stationery,2,10.0,20.0,Delivered
+2,2025-08-29,Ananya Gupta,BSc,Fried Rice,Meals,5,70.0,350.0,Delivered
+2,2025-08-29,Ananya Gupta,BSc,Chai,Beverages,5,10.0,50.0,Delivered
+3,2025-09-11,Ananya Gupta,BSc,Thali,Meals,1,80.0,80.0,Delivered
+4,2025-07-06,Simran Yadav,BBA,Sandwich,Snacks,1,40.0,40.0,Delivered
+4,2025-07-06,Simran Yadav,BBA,Sandwich,Snacks,1,40.0,40.0,Delivered
+4,2025-07-06,Simran Yadav,BBA,Highlighter,Stationery,4,30.0,120.0,Delivered
+5,2025-10-05,Yash Mehta,B.Com,Chai,Beverages,1,10.0,10.0,Cancelled
+6,2025-03-25,Isha Gupta,BSc,Notebook,Stationery,4,60.0,240.0,Pending
+6,2025-03-25,Isha Gupta,BSc,Chai,Beverages,5,10.0,50.0,Pending
+6,2025-03-25,Isha Gupta,BSc,Maggi,Meals,5,35.0,175.0,Pending
+6,2025-03-25,Isha Gupta,BSc,Pen,Stationery,4,10.0,40.0,Pending
+7,2025-07-23,Pooja Chopra,BBA,Notebook,Stationery,5,60.0,300.0,Delivered
+7,2025-07-23,Pooja Chopra,BBA,Pen,Stationery,4,10.0,40.0,Delivered
+7,2025-07-23,Pooja Chopra,BBA,Maggi,Meals,4,35.0,140.0,Delivered
+7,2025-07-23,Pooja Chopra,BBA,Sandwich,Snacks,1,40.0,40.0,Delivered
+8,2025-09-14,Kavya Chopra,BBA,Samosa,Snacks,4,15.0,60.0,Delivered
+8,2025-09-14,Kavya Chopra,BBA,Highlighter,Stationery,2,30.0,60.0,Delivered
+8,2025-09-14,Kavya Chopra,BBA,Sandwich,Snacks,1,40.0,40.0,Delivered
+9,2025-03-21,Sneha Chopra,B.Com,Sandwich,Snacks,3,40.0,120.0,Cancelled
+9,2025-03-21,Sneha Chopra,B.Com,Chai,Beverages,2,10.0,20.0,Cancelled
+9,2025-03-21,Sneha Chopra,B.Com,Maggi,Meals,4,35.0,140.0,Cancelled
+9,2025-03-21,Sneha Chopra,B.Com,Burger,Snacks,3,45.0,135.0,Cancelled
+10,2025-10-19,Riya Chopra,BBA,Notebook,Stationery,1,60.0,60.0,Delivered
+10,2025-10-19,Riya Chopra,BBA,Thali,Meals,5,80.0,400.0,Delivered
+10,2025-10-19,Riya Chopra,BBA,Samosa,Snacks,4,15.0,60.0,Delivered
+10,2025-10-19,Riya Chopra,BBA,Notebook,Stationery,2,60.0,120.0,Delivered
+11,2025-04-22,Yash Khan,B.Com,Maggi,Meals,2,35.0,70.0,Delivered
+12,2025-05-14,Diya Verma,BBA,Thali,Meals,1,80.0,80.0,Delivered
+12,2025-05-14,Diya Verma,BBA,Maggi,Meals,3,35.0,105.0,Delivered
+13,2025-04-15,Riya Singh,BCA,Highlighter,Stationery,2,30.0,60.0,Delivered
+14,2025-05-07,Aditya Chopra,BCA,Thali,Meals,4,80.0,320.0,Cancelled
+14,2025-05-07,Aditya Chopra,BCA,Notebook,Stationery,1,60.0,60.0,Cancelled
+14,2025-05-07,Aditya Chopra,BCA,Samosa,Snacks,3,15.0,45.0,Cancelled
+14,2025-05-07,Aditya Chopra,BCA,Fried Rice,Meals,3,70.0,210.0,Cancelled
+15,2025-07-23,Amit Chopra,BSc,Maggi,Meals,3,35.0,105.0,Delivered
+15,2025-07-23,Amit Chopra,BSc,Thali,Meals,4,80.0,320.0,Delivered
+15,2025-07-23,Amit Chopra,BSc,Fried Rice,Meals,2,70.0,140.0,Delivered
+16,2025-04-18,Aditya Kumar,B.Com,Pen,Stationery,5,10.0,50.0,Delivered
+16,2025-04-18,Aditya Kumar,B.Com,Samosa,Snacks,4,15.0,60.0,Delivered
+16,2025-04-18,Aditya Kumar,B.Com,Chai,Beverages,3,10.0,30.0,Delivered
+17,2025-05-02,Riya Singh,BCA,Sandwich,Snacks,3,40.0,120.0,Pending
+17,2025-05-02,Riya Singh,BCA,Maggi,Meals,2,35.0,70.0,Pending
+18,2025-08-05,Riya Chopra,BBA,Pen,Stationery,5,10.0,50.0,Pending
+19,2025-05-31,Rahul Chopra,B.Com,Sandwich,Snacks,1,40.0,40.0,Delivered
+19,2025-05-31,Rahul Chopra,B.Com,Maggi,Meals,3,35.0,105.0,Delivered
+19,2025-05-31,Rahul Chopra,B.Com,Maggi,Meals,1,35.0,35.0,Delivered
+19,2025-05-31,Rahul Chopra,B.Com,Pen,Stationery,2,10.0,20.0,Delivered
+20,2025-08-13,Aarav Verma,BBA,Juice,Beverages,5,30.0,150.0,Pending
+21,2025-06-28,Manav Yadav,BCA,Juice,Beverages,1,30.0,30.0,Delivered
+22,2025-02-22,Rahul Gupta,BSc,Juice,Beverages,5,30.0,150.0,Delivered
+22,2025-02-22,Rahul Gupta,BSc,Juice,Beverages,4,30.0,120.0,Delivered
+23,2025-03-08,Manav Sharma,B.Com,Fried Rice,Meals,3,70.0,210.0,Pending
+23,2025-03-08,Manav Sharma,B.Com,Sandwich,Snacks,3,40.0,120.0,Pending
+23,2025-03-08,Manav Sharma,B.Com,Chai,Beverages,1,10.0,10.0,Pending
+24,2025-01-06,Ananya Gupta,BCA,Burger,Snacks,1,45.0,45.0,Delivered
+24,2025-01-06,Ananya Gupta,BCA,Samosa,Snacks,1,15.0,15.0,Delivered
+25,2025-07-22,Vivaan Kumar,BCA,Pen,Stationery,5,10.0,50.0,Delivered
+25,2025-07-22,Vivaan Kumar,BCA,Sandwich,Snacks,2,40.0,80.0,Delivered
+25,2025-07-22,Vivaan Kumar,BCA,Notebook,Stationery,4,60.0,240.0,Delivered
+26,2025-10-27,Priya Jain,B.Com,Pen,Stationery,4,10.0,40.0,Cancelled
+26,2025-10-27,Priya Jain,B.Com,Notebook,Stationery,5,60.0,300.0,Cancelled
+27,2025-09-12,Pooja Chopra,BSc,Notebook,Stationery,1,60.0,60.0,Cancelled
+27,2025-09-12,Pooja Chopra,BSc,Chai,Beverages,3,10.0,30.0,Cancelled
+27,2025-09-12,Pooja Chopra,BSc,Burger,Snacks,2,45.0,90.0,Cancelled
+28,2025-10-20,Amit Chopra,BSc,Burger,Snacks,3,45.0,135.0,Cancelled
+29,2025-08-27,Pooja Chopra,BSc,Maggi,Meals,5,35.0,175.0,Cancelled
+29,2025-08-27,Pooja Chopra,BSc,Cold Coffee,Beverages,2,50.0,100.0,Cancelled
+30,2025-06-24,Kavya Mehta,BCA,Cold Coffee,Beverages,4,50.0,200.0,Delivered
+30,2025-06-24,Kavya Mehta,BCA,Fried Rice,Meals,2,70.0,140.0,Delivered
+31,2025-04-26,Ananya Gupta,BCA,Pen,Stationery,2,10.0,20.0,Cancelled
+31,2025-04-26,Ananya Gupta,BCA,Thali,Meals,5,80.0,400.0,Cancelled
+31,2025-04-26,Ananya Gupta,BCA,Maggi,Meals,2,35.0,70.0,Cancelled
+31,2025-04-26,Ananya Gupta,BCA,Juice,Beverages,5,30.0,150.0,Cancelled
+32,2025-03-14,Riya Yadav,BBA,Maggi,Meals,4,35.0,140.0,Delivered
+32,2025-03-14,Riya Yadav,BBA,Pen,Stationery,3,10.0,30.0,Delivered
+32,2025-03-14,Riya Yadav,BBA,Burger,Snacks,5,45.0,225.0,Delivered
+32,2025-03-14,Riya Yadav,BBA,Chai,Beverages,4,10.0,40.0,Delivered
+33,2025-10-08,Aditya Chopra,BCA,Juice,Beverages,1,30.0,30.0,Delivered
+33,2025-10-08,Aditya Chopra,BCA,Chai,Beverages,2,10.0,20.0,Delivered
+34,2025-02-10,Aditya Kumar,B.Com,Thali,Meals,5,80.0,400.0,Pending
+34,2025-02-10,Aditya Kumar,B.Com,Fried Rice,Meals,5,70.0,350.0,Pending
+34,2025-02-10,Aditya Kumar,B.Com,Highlighter,Stationery,1,30.0,30.0,Pending
+35,2025-07-24,Aditya Kumar,B.Com,Highlighter,Stationery,2,30.0,60.0,Delivered
+35,2025-07-24,Aditya Kumar,B.Com,Thali,Meals,4,80.0,320.0,Delivered
+35,2025-07-24,Aditya Kumar,B.Com,Highlighter,Stationery,2,30.0,60.0,Delivered
+35,2025-07-24,Aditya Kumar,B.Com,Pen,Stationery,5,10.0,50.0,Delivered
+36,2025-03-19,Ananya Gupta,BSc,Juice,Beverages,1,30.0,30.0,Delivered
+36,2025-03-19,Ananya Gupta,BSc,Samosa,Snacks,5,15.0,75.0,Delivered
+37,2025-08-02,Riya Chopra,BBA,Burger,Snacks,5,45.0,225.0,Delivered
+38,2025-10-04,Isha Gupta,BSc,Burger,Snacks,4,45.0,180.0,Delivered
+38,2025-10-04,Isha Gupta,BSc,Notebook,Stationery,1,60.0,60.0,Delivered
+38,2025-10-04,Isha Gupta,BSc,Chai,Beverages,2,10.0,20.0,Delivered
+39,2025-04-10,Aditya Chopra,BCA,Thali,Meals,1,80.0,80.0,Delivered
+39,2025-04-10,Aditya Chopra,BCA,Burger,Snacks,3,45.0,135.0,Delivered
+39,2025-04-10,Aditya Chopra,BCA,Fried Rice,Meals,4,70.0,280.0,Delivered
+40,2025-03-02,Pooja Chopra,BSc,Highlighter,Stationery,1,30.0,30.0,Pending
+40,2025-03-02,Pooja Chopra,BSc,Burger,Snacks,4,45.0,180.0,Pending
+41,2025-07-05,Rahul Yadav,B.Com,Chai,Beverages,2,10.0,20.0,Cancelled
+41,2025-07-05,Rahul Yadav,B.Com,Thali,Meals,3,80.0,240.0,Cancelled
+41,2025-07-05,Rahul Yadav,B.Com,Highlighter,Stationery,2,30.0,60.0,Cancelled
+41,2025-07-05,Rahul Yadav,B.Com,Maggi,Meals,1,35.0,35.0,Cancelled
+42,2025-04-09,Aditya Chopra,BCA,Chai,Beverages,2,10.0,20.0,Delivered
+43,2025-05-27,Simran Yadav,BBA,Juice,Beverages,3,30.0,90.0,Delivered
+43,2025-05-27,Simran Yadav,BBA,Chai,Beverages,1,10.0,10.0,Delivered
+43,2025-05-27,Simran Yadav,BBA,Juice,Beverages,4,30.0,120.0,Delivered
+43,2025-05-27,Simran Yadav,BBA,Burger,Snacks,4,45.0,180.0,Delivered
+44,2025-10-08,Rahul Singh,B.Com,Highlighter,Stationery,4,30.0,120.0,Delivered
+44,2025-10-08,Rahul Singh,B.Com,Cold Coffee,Beverages,1,50.0,50.0,Delivered
+44,2025-10-08,Rahul Singh,B.Com,Juice,Beverages,5,30.0,150.0,Delivered
+44,2025-10-08,Rahul Singh,B.Com,Juice,Beverages,2,30.0,60.0,Delivered
+45,2025-10-06,Riya Singh,BCA,Notebook,Stationery,4,60.0,240.0,Delivered
+45,2025-10-06,Riya Singh,BCA,Samosa,Snacks,3,15.0,45.0,Delivered
+45,2025-10-06,Riya Singh,BCA,Chai,Beverages,1,10.0,10.0,Delivered
+46,2025-10-22,Ananya Gupta,BCA,Fried Rice,Meals,5,70.0,350.0,Delivered
+46,2025-10-22,Ananya Gupta,BCA,Notebook,Stationery,1,60.0,60.0,Delivered
+47,2025-09-01,Manav Yadav,BCA,Fried Rice,Meals,3,70.0,210.0,Delivered
+48,2025-07-17,Rahul Singh,B.Com,Maggi,Meals,2,35.0,70.0,Delivered
+48,2025-07-17,Rahul Singh,B.Com,Cold Coffee,Beverages,1,50.0,50.0,Delivered
+48,2025-07-17,Rahul Singh,B.Com,Pen,Stationery,3,10.0,30.0,Delivered
+48,2025-07-17,Rahul Singh,B.Com,Juice,Beverages,3,30.0,90.0,Delivered
+49,2025-05-12,Neha Gupta,BSc,Samosa,Snacks,4,15.0,60.0,Delivered
+49,2025-05-12,Neha Gupta,BSc,Samosa,Snacks,4,15.0,60.0,Delivered
+50,2025-05-21,Riya Chopra,BBA,Juice,Beverages,5,30.0,150.0,Cancelled
+50,2025-05-21,Riya Chopra,BBA,Burger,Snacks,2,45.0,90.0,Cancelled
+50,2025-05-21,Riya Chopra,BBA,Highlighter,Stationery,2,30.0,60.0,Cancelled
+50,2025-05-21,Riya Chopra,BBA,Fried Rice,Meals,1,70.0,70.0,Cancelled
+51,2025-10-06,Sneha Khan,BBA,Thali,Meals,2,80.0,160.0,Delivered
+52,2025-09-26,Isha Gupta,BSc,Pen,Stationery,5,10.0,50.0,Pending
+53,2025-08-06,Riya Yadav,BBA,Cold Coffee,Beverages,5,50.0,250.0,Pending
+53,2025-08-06,Riya Yadav,BBA,Samosa,Snacks,1,15.0,15.0,Pending
+53,2025-08-06,Riya Yadav,BBA,Pen,Stationery,2,10.0,20.0,Pending
+53,2025-08-06,Riya Yadav,BBA,Sandwich,Snacks,4,40.0,160.0,Pending
+54,2025-01-02,Aditya Kumar,B.Com,Sandwich,Snacks,3,40.0,120.0,Cancelled
+54,2025-01-02,Aditya Kumar,B.Com,Cold Coffee,Beverages,2,50.0,100.0,Cancelled
+55,2025-09-05,Rahul Singh,B.Com,Cold Coffee,Beverages,2,50.0,100.0,Delivered
+55,2025-09-05,Rahul Singh,B.Com,Samosa,Snacks,4,15.0,60.0,Delivered
+55,2025-09-05,Rahul Singh,B.Com,Highlighter,Stationery,1,30.0,30.0,Delivered
+56,2025-07-25,Sneha Khan,BBA,Juice,Beverages,1,30.0,30.0,Delivered
+56,2025-07-25,Sneha Khan,BBA,Burger,Snacks,4,45.0,180.0,Delivered
+56,2025-07-25,Sneha Khan,BBA,Juice,Beverages,3,30.0,90.0,Delivered
+56,2025-07-25,Sneha Khan,BBA,Thali,Meals,2,80.0,160.0,Delivered
+57,2025-05-04,Rahul Yadav,B.Com,Thali,Meals,1,80.0,80.0,Cancelled
+57,2025-05-04,Rahul Yadav,B.Com,Maggi,Meals,2,35.0,70.0,Cancelled
+57,2025-05-04,Rahul Yadav,B.Com,Samosa,Snacks,1,15.0,15.0,Cancelled
+58,2025-03-13,Yash Mehta,B.Com,Pen,Stationery,5,10.0,50.0,Delivered
+58,2025-03-13,Yash Mehta,B.Com,Burger,Snacks,4,45.0,180.0,Delivered
+58,2025-03-13,Yash Mehta,B.Com,Notebook,Stationery,3,60.0,180.0,Delivered
+59,2025-05-04,Pooja Chopra,BBA,Cold Coffee,Beverages,3,50.0,150.0,Delivered
+60,2025-03-31,Aditya Chopra,BCA,Samosa,Snacks,1,15.0,15.0,Delivered
+60,2025-03-31,Aditya Chopra,BCA,Burger,Snacks,3,45.0,135.0,Delivered
+61,2025-09-04,Isha Jain,BBA,Chai,Beverages,1,10.0,10.0,Cancelled
+61,2025-09-04,Isha Jain,BBA,Chai,Beverages,3,10.0,30.0,Cancelled
+61,2025-09-04,Isha Jain,BBA,Burger,Snacks,5,45.0,225.0,Cancelled
+61,2025-09-04,Isha Jain,BBA,Thali,Meals,2,80.0,160.0,Cancelled
+62,2025-10-15,Amit Chopra,BSc,Sandwich,Snacks,3,40.0,120.0,Cancelled
+62,2025-10-15,Amit Chopra,BSc,Maggi,Meals,1,35.0,35.0,Cancelled
+63,2025-07-26,Isha Jain,BBA,Samosa,Snacks,2,15.0,30.0,Delivered
+63,2025-07-26,Isha Jain,BBA,Sandwich,Snacks,3,40.0,120.0,Delivered
+63,2025-07-26,Isha Jain,BBA,Fried Rice,Meals,1,70.0,70.0,Delivered
+64,2025-08-29,Yash Mehta,B.Com,Cold Coffee,Beverages,5,50.0,250.0,Pending
+64,2025-08-29,Yash Mehta,B.Com,Notebook,Stationery,5,60.0,300.0,Pending
+64,2025-08-29,Yash Mehta,B.Com,Highlighter,Stationery,1,30.0,30.0,Pending
+64,2025-08-29,Yash Mehta,B.Com,Juice,Beverages,3,30.0,90.0,Pending
+65,2025-01-25,Rahul Gupta,BSc,Sandwich,Snacks,4,40.0,160.0,Pending
+65,2025-01-25,Rahul Gupta,BSc,Sandwich,Snacks,4,40.0,160.0,Pending
+65,2025-01-25,Rahul Gupta,BSc,Highlighter,Stationery,3,30.0,90.0,Pending
+66,2025-06-14,Isha Jain,BBA,Pen,Stationery,5,10.0,50.0,Pending
+66,2025-06-14,Isha Jain,BBA,Juice,Beverages,1,30.0,30.0,Pending
+67,2025-08-17,Kavya Chopra,BBA,Fried Rice,Meals,5,70.0,350.0,Pending
+67,2025-08-17,Kavya Chopra,BBA,Highlighter,Stationery,2,30.0,60.0,Pending
+67,2025-08-17,Kavya Chopra,BBA,Highlighter,Stationery,4,30.0,120.0,Pending
+68,2025-05-12,Diya Verma,BBA,Thali,Meals,1,80.0,80.0,Cancelled
+68,2025-05-12,Diya Verma,BBA,Thali,Meals,3,80.0,240.0,Cancelled
+68,2025-05-12,Diya Verma,BBA,Pen,Stationery,5,10.0,50.0,Cancelled
+69,2025-07-03,Vivaan Kumar,BCA,Notebook,Stationery,5,60.0,300.0,Cancelled
+69,2025-07-03,Vivaan Kumar,BCA,Pen,Stationery,1,10.0,10.0,Cancelled
+69,2025-07-03,Vivaan Kumar,BCA,Thali,Meals,4,80.0,320.0,Cancelled
+70,2025-01-19,Ananya Gupta,BSc,Fried Rice,Meals,3,70.0,210.0,Cancelled
+71,2025-07-07,Priya Jain,B.Com,Chai,Beverages,4,10.0,40.0,Cancelled
+72,2025-08-26,Yash Khan,B.Com,Thali,Meals,5,80.0,400.0,Delivered
+73,2025-09-29,Pooja Chopra,BSc,Chai,Beverages,2,10.0,20.0,Pending
+74,2025-04-27,Kavya Mehta,BCA,Chai,Beverages,5,10.0,50.0,Cancelled
+74,2025-04-27,Kavya Mehta,BCA,Juice,Beverages,3,30.0,90.0,Cancelled
+74,2025-04-27,Kavya Mehta,BCA,Fried Rice,Meals,3,70.0,210.0,Cancelled
+74,2025-04-27,Kavya Mehta,BCA,Thali,Meals,4,80.0,320.0,Cancelled
+75,2025-01-01,Karan Kumar,B.Com,Maggi,Meals,3,35.0,105.0,Delivered
+76,2025-10-05,Rahul Gupta,BSc,Juice,Beverages,2,30.0,60.0,Delivered
+77,2025-10-10,Aarav Sharma,BCA,Juice,Beverages,3,30.0,90.0,Delivered
+77,2025-10-10,Aarav Sharma,BCA,Highlighter,Stationery,4,30.0,120.0,Delivered
+78,2025-01-15,Isha Gupta,BSc,Sandwich,Snacks,2,40.0,80.0,Delivered
+78,2025-01-15,Isha Gupta,BSc,Sandwich,Snacks,1,40.0,40.0,Delivered
+78,2025-01-15,Isha Gupta,BSc,Notebook,Stationery,5,60.0,300.0,Delivered
+78,2025-01-15,Isha Gupta,BSc,Juice,Beverages,4,30.0,120.0,Delivered
+79,2025-07-12,Riya Chopra,BBA,Highlighter,Stationery,1,30.0,30.0,Delivered
+80,2025-10-12,Karan Kumar,B.Com,Chai,Beverages,5,10.0,50.0,Pending
+81,2025-04-16,Neha Gupta,BSc,Samosa,Snacks,4,15.0,60.0,Pending
+81,2025-04-16,Neha Gupta,BSc,Thali,Meals,2,80.0,160.0,Pending
+81,2025-04-16,Neha Gupta,BSc,Cold Coffee,Beverages,1,50.0,50.0,Pending
+81,2025-04-16,Neha Gupta,BSc,Maggi,Meals,5,35.0,175.0,Pending
+82,2025-03-13,Rahul Gupta,BSc,Cold Coffee,Beverages,4,50.0,200.0,Cancelled
+82,2025-03-13,Rahul Gupta,BSc,Sandwich,Snacks,5,40.0,200.0,Cancelled
+82,2025-03-13,Rahul Gupta,BSc,Cold Coffee,Beverages,4,50.0,200.0,Cancelled
+83,2025-05-19,Isha Gupta,B.Com,Juice,Beverages,1,30.0,30.0,Delivered
+83,2025-05-19,Isha Gupta,B.Com,Juice,Beverages,5,30.0,150.0,Delivered
+84,2025-04-10,Simran Yadav,BBA,Sandwich,Snacks,1,40.0,40.0,Cancelled
+85,2025-02-17,Rahul Yadav,B.Com,Chai,Beverages,2,10.0,20.0,Delivered
+85,2025-02-17,Rahul Yadav,B.Com,Juice,Beverages,5,30.0,150.0,Delivered
+85,2025-02-17,Rahul Yadav,B.Com,Cold Coffee,Beverages,3,50.0,150.0,Delivered
+86,2025-09-23,Rahul Yadav,B.Com,Sandwich,Snacks,2,40.0,80.0,Delivered
+87,2025-05-16,Kavya Chopra,BBA,Samosa,Snacks,4,15.0,60.0,Pending
+87,2025-05-16,Kavya Chopra,BBA,Thali,Meals,5,80.0,400.0,Pending
+88,2025-08-19,Priya Jain,B.Com,Thali,Meals,5,80.0,400.0,Delivered
+88,2025-08-19,Priya Jain,B.Com,Thali,Meals,1,80.0,80.0,Delivered
+89,2025-04-02,Kavya Chopra,BBA,Highlighter,Stationery,2,30.0,60.0,Cancelled
+89,2025-04-02,Kavya Chopra,BBA,Maggi,Meals,3,35.0,105.0,Cancelled
+89,2025-04-02,Kavya Chopra,BBA,Samosa,Snacks,5,15.0,75.0,Cancelled
+89,2025-04-02,Kavya Chopra,BBA,Notebook,Stationery,5,60.0,300.0,Cancelled
+90,2025-03-21,Isha Jain,BBA,Cold Coffee,Beverages,2,50.0,100.0,Cancelled
+90,2025-03-21,Isha Jain,BBA,Cold Coffee,Beverages,4,50.0,200.0,Cancelled
+90,2025-03-21,Isha Jain,BBA,Samosa,Snacks,1,15.0,15.0,Cancelled
+90,2025-03-21,Isha Jain,BBA,Juice,Beverages,5,30.0,150.0,Cancelled
+91,2025-01-11,Rahul Gupta,BSc,Pen,Stationery,4,10.0,40.0,Delivered
+91,2025-01-11,Rahul Gupta,BSc,Notebook,Stationery,2,60.0,120.0,Delivered
+91,2025-01-11,Rahul Gupta,BSc,Notebook,Stationery,3,60.0,180.0,Delivered
+91,2025-01-11,Rahul Gupta,BSc,Sandwich,Snacks,1,40.0,40.0,Delivered
+92,2025-04-23,Aditya Kumar,B.Com,Pen,Stationery,5,10.0,50.0,Delivered
+93,2025-07-29,Riya Chopra,BBA,Notebook,Stationery,1,60.0,60.0,Pending
+94,2025-05-15,Yash Khan,B.Com,Fried Rice,Meals,3,70.0,210.0,Delivered
+94,2025-05-15,Yash Khan,B.Com,Burger,Snacks,1,45.0,45.0,Delivered
+94,2025-05-15,Yash Khan,B.Com,Cold Coffee,Beverages,5,50.0,250.0,Delivered
+94,2025-05-15,Yash Khan,B.Com,Sandwich,Snacks,2,40.0,80.0,Delivered
+95,2025-04-06,Aditya Chopra,BCA,Notebook,Stationery,4,60.0,240.0,Delivered
+95,2025-04-06,Aditya Chopra,BCA,Maggi,Meals,5,35.0,175.0,Delivered
+96,2025-08-02,Riya Chopra,BBA,Maggi,Meals,4,35.0,140.0,Cancelled
+96,2025-08-02,Riya Chopra,BBA,Burger,Snacks,5,45.0,225.0,Cancelled
+97,2025-05-08,Rahul Yadav,B.Com,Pen,Stationery,2,10.0,20.0,Delivered
+97,2025-05-08,Rahul Yadav,B.Com,Juice,Beverages,5,30.0,150.0,Delivered
+97,2025-05-08,Rahul Yadav,B.Com,Juice,Beverages,1,30.0,30.0,Delivered
+97,2025-05-08,Rahul Yadav,B.Com,Thali,Meals,2,80.0,160.0,Delivered
+98,2025-03-02,Isha Gupta,BSc,Pen,Stationery,5,10.0,50.0,Delivered
+98,2025-03-02,Isha Gupta,BSc,Chai,Beverages,5,10.0,50.0,Delivered
+99,2025-06-08,Isha Jain,BBA,Pen,Stationery,2,10.0,20.0,Delivered
+99,2025-06-08,Isha Jain,BBA,Pen,Stationery,5,10.0,50.0,Delivered
+99,2025-06-08,Isha Jain,BBA,Pen,Stationery,3,10.0,30.0,Delivered
+99,2025-06-08,Isha Jain,BBA,Cold Coffee,Beverages,5,50.0,250.0,Delivered
+100,2025-09-12,Aditya Chopra,BCA,Juice,Beverages,1,30.0,30.0,Cancelled
+100,2025-09-12,Aditya Chopra,BCA,Notebook,Stationery,5,60.0,300.0,Cancelled
+100,2025-09-12,Aditya Chopra,BCA,Sandwich,Snacks,2,40.0,80.0,Cancelled
+101,2025-08-27,Isha Jain,BBA,Samosa,Snacks,4,15.0,60.0,Delivered
+101,2025-08-27,Isha Jain,BBA,Cold Coffee,Beverages,2,50.0,100.0,Delivered
+101,2025-08-27,Isha Jain,BBA,Juice,Beverages,1,30.0,30.0,Delivered
+101,2025-08-27,Isha Jain,BBA,Maggi,Meals,5,35.0,175.0,Delivered
+102,2025-01-15,Rahul Chopra,B.Com,Notebook,Stationery,3,60.0,180.0,Cancelled
+103,2025-08-10,Yash Gupta,BCA,Cold Coffee,Beverages,4,50.0,200.0,Delivered
+104,2025-07-14,Aditya Chopra,BCA,Cold Coffee,Beverages,2,50.0,100.0,Delivered
+104,2025-07-14,Aditya Chopra,BCA,Maggi,Meals,3,35.0,105.0,Delivered
+105,2025-05-27,Pooja Chopra,BBA,Fried Rice,Meals,2,70.0,140.0,Cancelled
+105,2025-05-27,Pooja Chopra,BBA,Pen,Stationery,1,10.0,10.0,Cancelled
+105,2025-05-27,Pooja Chopra,BBA,Highlighter,Stationery,1,30.0,30.0,Cancelled
+106,2025-07-27,Amit Chopra,BSc,Chai,Beverages,1,10.0,10.0,Delivered
+106,2025-07-27,Amit Chopra,BSc,Juice,Beverages,3,30.0,90.0,Delivered
+106,2025-07-27,Amit Chopra,BSc,Juice,Beverages,3,30.0,90.0,Delivered
+107,2025-02-20,Sneha Khan,BBA,Maggi,Meals,1,35.0,35.0,Delivered
+107,2025-02-20,Sneha Khan,BBA,Notebook,Stationery,4,60.0,240.0,Delivered
+107,2025-02-20,Sneha Khan,BBA,Chai,Beverages,1,10.0,10.0,Delivered
+107,2025-02-20,Sneha Khan,BBA,Chai,Beverages,1,10.0,10.0,Delivered
+108,2025-07-05,Riya Singh,BCA,Juice,Beverages,3,30.0,90.0,Pending
+108,2025-07-05,Riya Singh,BCA,Highlighter,Stationery,5,30.0,150.0,Pending
+108,2025-07-05,Riya Singh,BCA,Pen,Stationery,1,10.0,10.0,Pending
+109,2025-08-13,Yash Khan,B.Com,Burger,Snacks,4,45.0,180.0,Pending
+109,2025-08-13,Yash Khan,B.Com,Sandwich,Snacks,5,40.0,200.0,Pending
+109,2025-08-13,Yash Khan,B.Com,Samosa,Snacks,4,15.0,60.0,Pending
+109,2025-08-13,Yash Khan,B.Com,Juice,Beverages,4,30.0,120.0,Pending
+110,2025-03-03,Kavya Chopra,BBA,Thali,Meals,1,80.0,80.0,Delivered
+110,2025-03-03,Kavya Chopra,BBA,Juice,Beverages,2,30.0,60.0,Delivered
+110,2025-03-03,Kavya Chopra,BBA,Notebook,Stationery,3,60.0,180.0,Delivered
+111,2025-05-18,Yash Gupta,BCA,Juice,Beverages,1,30.0,30.0,Cancelled
+111,2025-05-18,Yash Gupta,BCA,Maggi,Meals,1,35.0,35.0,Cancelled
+112,2025-05-03,Aditya Chopra,BCA,Notebook,Stationery,3,60.0,180.0,Delivered
+112,2025-05-03,Aditya Chopra,BCA,Samosa,Snacks,2,15.0,30.0,Delivered
+112,2025-05-03,Aditya Chopra,BCA,Chai,Beverages,2,10.0,20.0,Delivered
+112,2025-05-03,Aditya Chopra,BCA,Samosa,Snacks,3,15.0,45.0,Delivered
+113,2025-04-28,Isha Jain,BBA,Cold Coffee,Beverages,4,50.0,200.0,Delivered
+113,2025-04-28,Isha Jain,BBA,Sandwich,Snacks,2,40.0,80.0,Delivered
+114,2025-07-04,Ananya Gupta,BCA,Samosa,Snacks,1,15.0,15.0,Delivered
+114,2025-07-04,Ananya Gupta,BCA,Maggi,Meals,5,35.0,175.0,Delivered
+115,2025-08-09,Sneha Chopra,B.Com,Samosa,Snacks,3,15.0,45.0,Pending
+115,2025-08-09,Sneha Chopra,B.Com,Sandwich,Snacks,5,40.0,200.0,Pending
+115,2025-08-09,Sneha Chopra,B.Com,Notebook,Stationery,3,60.0,180.0,Pending
+115,2025-08-09,Sneha Chopra,B.Com,Burger,Snacks,5,45.0,225.0,Pending
+116,2025-05-05,Rahul Singh,B.Com,Chai,Beverages,4,10.0,40.0,Pending
+116,2025-05-05,Rahul Singh,B.Com,Pen,Stationery,5,10.0,50.0,Pending
+116,2025-05-05,Rahul Singh,B.Com,Sandwich,Snacks,4,40.0,160.0,Pending
+117,2025-02-03,Yash Mehta,B.Com,Maggi,Meals,5,35.0,175.0,Cancelled
+117,2025-02-03,Yash Mehta,B.Com,Highlighter,Stationery,3,30.0,90.0,Cancelled
+117,2025-02-03,Yash Mehta,B.Com,Sandwich,Snacks,2,40.0,80.0,Cancelled
+117,2025-02-03,Yash Mehta,B.Com,Cold Coffee,Beverages,1,50.0,50.0,Cancelled
+118,2025-07-01,Aditya Kumar,B.Com,Burger,Snacks,3,45.0,135.0,Delivered
+119,2025-03-11,Pooja Chopra,BSc,Cold Coffee,Beverages,2,50.0,100.0,Pending
+119,2025-03-11,Pooja Chopra,BSc,Juice,Beverages,5,30.0,150.0,Pending
+120,2025-03-05,Manav Sharma,B.Com,Cold Coffee,Beverages,2,50.0,100.0,Pending
+120,2025-03-05,Manav Sharma,B.Com,Sandwich,Snacks,3,40.0,120.0,Pending
+121,2025-01-20,Karan Kumar,B.Com,Pen,Stationery,2,10.0,20.0,Delivered
+121,2025-01-20,Karan Kumar,B.Com,Notebook,Stationery,1,60.0,60.0,Delivered
+121,2025-01-20,Karan Kumar,B.Com,Highlighter,Stationery,4,30.0,120.0,Delivered
+121,2025-01-20,Karan Kumar,B.Com,Maggi,Meals,5,35.0,175.0,Delivered
+122,2025-04-14,Ananya Gupta,BCA,Sandwich,Snacks,1,40.0,40.0,Cancelled
+122,2025-04-14,Ananya Gupta,BCA,Sandwich,Snacks,1,40.0,40.0,Cancelled
+122,2025-04-14,Ananya Gupta,BCA,Burger,Snacks,2,45.0,90.0,Cancelled
+122,2025-04-14,Ananya Gupta,BCA,Pen,Stationery,1,10.0,10.0,Cancelled
+123,2025-03-04,Rahul Chopra,B.Com,Thali,Meals,2,80.0,160.0,Delivered
+123,2025-03-04,Rahul Chopra,B.Com,Highlighter,Stationery,4,30.0,120.0,Delivered
+123,2025-03-04,Rahul Chopra,B.Com,Highlighter,Stationery,2,30.0,60.0,Delivered
+124,2025-07-11,Isha Jain,BBA,Juice,Beverages,3,30.0,90.0,Delivered
+125,2025-08-24,Pooja Chopra,BSc,Pen,Stationery,5,10.0,50.0,Cancelled
+126,2025-01-07,Ananya Gupta,BSc,Thali,Meals,2,80.0,160.0,Pending
+127,2025-07-25,Pooja Chopra,BSc,Burger,Snacks,1,45.0,45.0,Delivered
+127,2025-07-25,Pooja Chopra,BSc,Cold Coffee,Beverages,4,50.0,200.0,Delivered
+127,2025-07-25,Pooja Chopra,BSc,Fried Rice,Meals,1,70.0,70.0,Delivered
+127,2025-07-25,Pooja Chopra,BSc,Pen,Stationery,2,10.0,20.0,Delivered
+128,2025-04-05,Aditya Chopra,BCA,Notebook,Stationery,4,60.0,240.0,Delivered
+128,2025-04-05,Aditya Chopra,BCA,Highlighter,Stationery,4,30.0,120.0,Delivered
+128,2025-04-05,Aditya Chopra,BCA,Notebook,Stationery,3,60.0,180.0,Delivered
+129,2025-05-07,Pooja Chopra,BSc,Thali,Meals,5,80.0,400.0,Delivered
+129,2025-05-07,Pooja Chopra,BSc,Thali,Meals,5,80.0,400.0,Delivered
+129,2025-05-07,Pooja Chopra,BSc,Cold Coffee,Beverages,1,50.0,50.0,Delivered
+130,2025-02-12,Rahul Singh,B.Com,Thali,Meals,2,80.0,160.0,Delivered
+130,2025-02-12,Rahul Singh,B.Com,Fried Rice,Meals,4,70.0,280.0,Delivered
+130,2025-02-12,Rahul Singh,B.Com,Maggi,Meals,1,35.0,35.0,Delivered
+130,2025-02-12,Rahul Singh,B.Com,Thali,Meals,5,80.0,400.0,Delivered
+131,2025-03-06,Sneha Chopra,B.Com,Burger,Snacks,4,45.0,180.0,Pending
+131,2025-03-06,Sneha Chopra,B.Com,Pen,Stationery,1,10.0,10.0,Pending
+132,2025-07-27,Aditya Kumar,B.Com,Cold Coffee,Beverages,4,50.0,200.0,Delivered
+132,2025-07-27,Aditya Kumar,B.Com,Sandwich,Snacks,2,40.0,80.0,Delivered
+132,2025-07-27,Aditya Kumar,B.Com,Maggi,Meals,1,35.0,35.0,Delivered
+133,2025-02-23,Pooja Chopra,BSc,Fried Rice,Meals,2,70.0,140.0,Cancelled
+133,2025-02-23,Pooja Chopra,BSc,Burger,Snacks,5,45.0,225.0,Cancelled
+134,2025-09-21,Yash Mehta,B.Com,Fried Rice,Meals,5,70.0,350.0,Delivered
+134,2025-09-21,Yash Mehta,B.Com,Cold Coffee,Beverages,1,50.0,50.0,Delivered
+134,2025-09-21,Yash Mehta,B.Com,Chai,Beverages,4,10.0,40.0,Delivered
+135,2025-10-06,Rahul Yadav,B.Com,Samosa,Snacks,1,15.0,15.0,Cancelled
+136,2025-10-21,Rahul Singh,B.Com,Thali,Meals,1,80.0,80.0,Cancelled
+136,2025-10-21,Rahul Singh,B.Com,Samosa,Snacks,4,15.0,60.0,Cancelled
+136,2025-10-21,Rahul Singh,B.Com,Juice,Beverages,4,30.0,120.0,Cancelled
+136,2025-10-21,Rahul Singh,B.Com,Sandwich,Snacks,3,40.0,120.0,Cancelled
+137,2025-07-17,Kavya Chopra,BBA,Pen,Stationery,2,10.0,20.0,Cancelled
+137,2025-07-17,Kavya Chopra,BBA,Burger,Snacks,4,45.0,180.0,Cancelled
+138,2025-02-12,Rahul Singh,B.Com,Thali,Meals,1,80.0,80.0,Pending
+138,2025-02-12,Rahul Singh,B.Com,Juice,Beverages,5,30.0,150.0,Pending
+138,2025-02-12,Rahul Singh,B.Com,Burger,Snacks,2,45.0,90.0,Pending
+139,2025-06-13,Kavya Chopra,BBA,Burger,Snacks,2,45.0,90.0,Pending
+139,2025-06-13,Kavya Chopra,BBA,Notebook,Stationery,1,60.0,60.0,Pending
+139,2025-06-13,Kavya Chopra,BBA,Pen,Stationery,2,10.0,20.0,Pending
+140,2025-02-28,Amit Chopra,BSc,Burger,Snacks,1,45.0,45.0,Cancelled
+141,2025-01-26,Riya Chopra,BBA,Juice,Beverages,3,30.0,90.0,Delivered
+141,2025-01-26,Riya Chopra,BBA,Highlighter,Stationery,3,30.0,90.0,Delivered
+141,2025-01-26,Riya Chopra,BBA,Notebook,Stationery,5,60.0,300.0,Delivered
+142,2025-01-27,Ananya Gupta,BCA,Cold Coffee,Beverages,5,50.0,250.0,Delivered
+142,2025-01-27,Ananya Gupta,BCA,Pen,Stationery,2,10.0,20.0,Delivered
+142,2025-01-27,Ananya Gupta,BCA,Highlighter,Stationery,1,30.0,30.0,Delivered
+142,2025-01-27,Ananya Gupta,BCA,Thali,Meals,5,80.0,400.0,Delivered
+143,2025-09-05,Karan Kumar,B.Com,Burger,Snacks,1,45.0,45.0,Delivered
+143,2025-09-05,Karan Kumar,B.Com,Thali,Meals,3,80.0,240.0,Delivered
+144,2025-03-26,Isha Gupta,B.Com,Maggi,Meals,2,35.0,70.0,Delivered
+144,2025-03-26,Isha Gupta,B.Com,Thali,Meals,5,80.0,400.0,Delivered
+144,2025-03-26,Isha Gupta,B.Com,Chai,Beverages,2,10.0,20.0,Delivered
+144,2025-03-26,Isha Gupta,B.Com,Maggi,Meals,4,35.0,140.0,Delivered
+145,2025-07-10,Diya Verma,BBA,Samosa,Snacks,5,15.0,75.0,Cancelled
+145,2025-07-10,Diya Verma,BBA,Chai,Beverages,3,10.0,30.0,Cancelled
+146,2025-09-30,Manav Yadav,BCA,Thali,Meals,3,80.0,240.0,Pending
+147,2025-03-12,Sneha Chopra,B.Com,Samosa,Snacks,4,15.0,60.0,Delivered
+147,2025-03-12,Sneha Chopra,B.Com,Juice,Beverages,4,30.0,120.0,Delivered
+147,2025-03-12,Sneha Chopra,B.Com,Juice,Beverages,2,30.0,60.0,Delivered
+148,2025-10-03,Pooja Chopra,BSc,Maggi,Meals,2,35.0,70.0,Cancelled
+148,2025-10-03,Pooja Chopra,BSc,Samosa,Snacks,3,15.0,45.0,Cancelled
+148,2025-10-03,Pooja Chopra,BSc,Cold Coffee,Beverages,3,50.0,150.0,Cancelled
+148,2025-10-03,Pooja Chopra,BSc,Sandwich,Snacks,2,40.0,80.0,Cancelled
+149,2025-04-21,Aditya Chopra,BCA,Sandwich,Snacks,2,40.0,80.0,Delivered
+150,2025-02-03,Aarav Sharma,BCA,Juice,Beverages,5,30.0,150.0,Delivered
+151,2025-06-10,Vivaan Kumar,BCA,Maggi,Meals,2,35.0,70.0,Delivered
+151,2025-06-10,Vivaan Kumar,BCA,Chai,Beverages,5,10.0,50.0,Delivered
+151,2025-06-10,Vivaan Kumar,BCA,Cold Coffee,Beverages,3,50.0,150.0,Delivered
+151,2025-06-10,Vivaan Kumar,BCA,Notebook,Stationery,2,60.0,120.0,Delivered
+152,2025-05-25,Yash Gupta,BCA,Pen,Stationery,1,10.0,10.0,Cancelled
+152,2025-05-25,Yash Gupta,BCA,Cold Coffee,Beverages,2,50.0,100.0,Cancelled
+152,2025-05-25,Yash Gupta,BCA,Cold Coffee,Beverages,4,50.0,200.0,Cancelled
+153,2025-05-23,Rahul Singh,B.Com,Sandwich,Snacks,4,40.0,160.0,Delivered
+154,2025-02-21,Rahul Yadav,B.Com,Juice,Beverages,2,30.0,60.0,Cancelled
+154,2025-02-21,Rahul Yadav,B.Com,Maggi,Meals,3,35.0,105.0,Cancelled
+154,2025-02-21,Rahul Yadav,B.Com,Juice,Beverages,1,30.0,30.0,Cancelled
+154,2025-02-21,Rahul Yadav,B.Com,Samosa,Snacks,3,15.0,45.0,Cancelled
+155,2025-07-12,Neha Gupta,BSc,Burger,Snacks,2,45.0,90.0,Delivered
+155,2025-07-12,Neha Gupta,BSc,Maggi,Meals,2,35.0,70.0,Delivered
+155,2025-07-12,Neha Gupta,BSc,Cold Coffee,Beverages,2,50.0,100.0,Delivered
+155,2025-07-12,Neha Gupta,BSc,Maggi,Meals,4,35.0,140.0,Delivered
+156,2025-09-24,Manav Yadav,BCA,Fried Rice,Meals,2,70.0,140.0,Pending
+156,2025-09-24,Manav Yadav,BCA,Burger,Snacks,5,45.0,225.0,Pending
+157,2025-04-08,Riya Singh,BCA,Thali,Meals,2,80.0,160.0,Cancelled
+157,2025-04-08,Riya Singh,BCA,Sandwich,Snacks,3,40.0,120.0,Cancelled
+157,2025-04-08,Riya Singh,BCA,Chai,Beverages,5,10.0,50.0,Cancelled
+157,2025-04-08,Riya Singh,BCA,Cold Coffee,Beverages,4,50.0,200.0,Cancelled
+158,2025-05-25,Riya Chopra,BBA,Thali,Meals,5,80.0,400.0,Delivered
+158,2025-05-25,Riya Chopra,BBA,Highlighter,Stationery,4,30.0,120.0,Delivered
+159,2025-10-14,Ananya Gupta,BSc,Cold Coffee,Beverages,4,50.0,200.0,Cancelled
+159,2025-10-14,Ananya Gupta,BSc,Pen,Stationery,1,10.0,10.0,Cancelled
+159,2025-10-14,Ananya Gupta,BSc,Thali,Meals,3,80.0,240.0,Cancelled
+159,2025-10-14,Ananya Gupta,BSc,Fried Rice,Meals,4,70.0,280.0,Cancelled
+160,2025-09-02,Ananya Gupta,BSc,Burger,Snacks,5,45.0,225.0,Delivered
+160,2025-09-02,Ananya Gupta,BSc,Highlighter,Stationery,1,30.0,30.0,Delivered
+161,2025-05-29,Riya Yadav,BBA,Burger,Snacks,3,45.0,135.0,Pending
+161,2025-05-29,Riya Yadav,BBA,Notebook,Stationery,2,60.0,120.0,Pending
+161,2025-05-29,Riya Yadav,BBA,Chai,Beverages,5,10.0,50.0,Pending
+162,2025-04-13,Kavya Chopra,BBA,Chai,Beverages,1,10.0,10.0,Pending
+162,2025-04-13,Kavya Chopra,BBA,Thali,Meals,4,80.0,320.0,Pending
+163,2025-03-29,Rahul Yadav,B.Com,Samosa,Snacks,2,15.0,30.0,Cancelled
+164,2025-07-25,Aarav Sharma,BCA,Cold Coffee,Beverages,1,50.0,50.0,Delivered
+164,2025-07-25,Aarav Sharma,BCA,Highlighter,Stationery,5,30.0,150.0,Delivered
+165,2025-03-09,Rahul Singh,B.Com,Maggi,Meals,3,35.0,105.0,Pending
+165,2025-03-09,Rahul Singh,B.Com,Chai,Beverages,1,10.0,10.0,Pending
+165,2025-03-09,Rahul Singh,B.Com,Juice,Beverages,3,30.0,90.0,Pending
+166,2025-05-10,Riya Yadav,BBA,Cold Coffee,Beverages,4,50.0,200.0,Delivered
+167,2025-06-05,Priya Jain,B.Com,Cold Coffee,Beverages,3,50.0,150.0,Delivered
+167,2025-06-05,Priya Jain,B.Com,Pen,Stationery,2,10.0,20.0,Delivered
+168,2025-08-16,Rahul Singh,B.Com,Samosa,Snacks,2,15.0,30.0,Delivered
+169,2025-04-20,Kavya Mehta,BCA,Pen,Stationery,3,10.0,30.0,Delivered
+169,2025-04-20,Kavya Mehta,BCA,Thali,Meals,1,80.0,80.0,Delivered
+170,2025-03-20,Rahul Chopra,B.Com,Fried Rice,Meals,5,70.0,350.0,Delivered
+170,2025-03-20,Rahul Chopra,B.Com,Burger,Snacks,2,45.0,90.0,Delivered
+170,2025-03-20,Rahul Chopra,B.Com,Pen,Stationery,5,10.0,50.0,Delivered
+170,2025-03-20,Rahul Chopra,B.Com,Maggi,Meals,4,35.0,140.0,Delivered
+171,2025-05-08,Kavya Chopra,BBA,Maggi,Meals,1,35.0,35.0,Delivered
+171,2025-05-08,Kavya Chopra,BBA,Samosa,Snacks,2,15.0,30.0,Delivered
+172,2025-09-24,Amit Chopra,BSc,Fried Rice,Meals,3,70.0,210.0,Pending
+172,2025-09-24,Amit Chopra,BSc,Highlighter,Stationery,3,30.0,90.0,Pending
+173,2025-07-14,Amit Chopra,BSc,Sandwich,Snacks,1,40.0,40.0,Delivered
+173,2025-07-14,Amit Chopra,BSc,Maggi,Meals,1,35.0,35.0,Delivered
+174,2025-07-26,Isha Gupta,B.Com,Cold Coffee,Beverages,3,50.0,150.0,Delivered
+175,2025-08-14,Sneha Chopra,B.Com,Samosa,Snacks,2,15.0,30.0,Delivered
+175,2025-08-14,Sneha Chopra,B.Com,Thali,Meals,4,80.0,320.0,Delivered
+175,2025-08-14,Sneha Chopra,B.Com,Highlighter,Stationery,2,30.0,60.0,Delivered
+176,2025-05-29,Aditya Kumar,B.Com,Cold Coffee,Beverages,5,50.0,250.0,Pending
+176,2025-05-29,Aditya Kumar,B.Com,Highlighter,Stationery,1,30.0,30.0,Pending
+177,2025-04-24,Rahul Yadav,B.Com,Pen,Stationery,5,10.0,50.0,Pending
+177,2025-04-24,Rahul Yadav,B.Com,Maggi,Meals,5,35.0,175.0,Pending
+177,2025-04-24,Rahul Yadav,B.Com,Fried Rice,Meals,2,70.0,140.0,Pending
+178,2025-09-28,Ananya Gupta,BSc,Pen,Stationery,4,10.0,40.0,Delivered
+179,2025-06-03,Aarav Verma,BBA,Pen,Stationery,4,10.0,40.0,Pending
+179,2025-06-03,Aarav Verma,BBA,Highlighter,Stationery,5,30.0,150.0,Pending
+179,2025-06-03,Aarav Verma,BBA,Pen,Stationery,3,10.0,30.0,Pending
+180,2025-06-24,Rahul Chopra,B.Com,Highlighter,Stationery,2,30.0,60.0,Delivered
+180,2025-06-24,Rahul Chopra,B.Com,Notebook,Stationery,4,60.0,240.0,Delivered
+181,2025-03-15,Neha Gupta,BSc,Samosa,Snacks,80,15.0,1200.0,Delivered
+182,2025-08-20,Riya Chopra,BBA,Thali,Meals,60,80.0,4800.0,Delivered
+183,2026-10-24,Aarav Khan,BCA,Burger,Snacks,2,45.0,90.0,Delivered
